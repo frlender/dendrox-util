@@ -1,3 +1,3 @@
 DendroX
 
-Util functions to create JSON input for the online DendroX app
+Utility functions to create JSON input for the online DendroX app

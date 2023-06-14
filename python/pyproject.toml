@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
 name = "dendrox"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Qiaonan Duan", email="geonann@gmail.com" },
 ]
@@ -16,8 +16,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "numpy",
-    "seaborn"
+    "numpy"
 ]
 
 [project.urls]

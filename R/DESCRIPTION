@@ -1,0 +1,17 @@
+Package: dendrox
+Type: Package
+Title: Utility functions to create JSON input for the DendroX app
+Version: 0.1.0
+Author: Qiaonan Duan
+Maintainer: Qiaonan Duan <geonann@gmail.com>
+Description: Learn more about the DendroX app at:
+    https://github.com/frlender/DendroX
+    Demos on how to use the package can be found at:
+    https://github.com/frlender/dendrox-util
+    Before install the package, please set up the environment as following:
+    install.packages(reticulate)
+    reticulate::install_miniconda()
+    reticulate::py_install('dendrox',pip=T)
+License: MIT
+Encoding: UTF-8
+Imports: reticulate
