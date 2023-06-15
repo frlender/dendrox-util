@@ -34,7 +34,8 @@ To install the package, do the following:
 install.packages(reticulate)
 reticulate::install_miniconda()
 reticulate::py_install('dendrox',pip=T)
-install.packages(dendrox)
+# download the dendrox_0.1.0.tar.gz file in this repo
+install.packages('path/to/dendrox_0.1.0.tar.gz',repos=NULL)
 ```
 To use the package:
 ```
