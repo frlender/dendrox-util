@@ -1,6 +1,8 @@
 ## DendroX-Util
 
-Packages to create JSON input for the DendroX app.
+Packages to create JSON input for the [DendroX app](https://github.com/frlender/DendroX).
+
+
 
 Code for demonstration can be found in the demo folder.
 
