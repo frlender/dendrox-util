@@ -55,4 +55,3 @@ get_json <- function(g,row=T,labels=NA, fname='nodes'){
     # fname: the file name of the output json file
     ...
 }
-```
